@@ -12,7 +12,7 @@ public class oe1_surname {
         System.out.println("[1] Create Array List");
         System.out.println("[2] Insert in Array");
         System.out.println("[3] Search in Array");
-        System.out.println("[4] Delete in Array");
+        System.out.println("[4] Del in Array");
         System.out.println("[0] Exit System");
         System.out.print("Select Operation: ");
         ch = in.nextInt();
