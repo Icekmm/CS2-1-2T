@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class oe1_surname {
 
-    
+
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
@@ -13,7 +13,7 @@ public class oe1_surname {
         System.out.println("[2] Insert in Array");
         System.out.println("[3] Search in Array");
         System.out.println("[4] Delete in Array");
-        System.out.println("[0] Exit");
+        System.out.println("[0] Exit System");
         System.out.print("Select Operation: ");
         ch = in.nextInt();
 
